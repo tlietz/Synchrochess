@@ -1,6 +1,5 @@
 defmodule Chess do
   @moduledoc """
-  Documentation for `Chess`.
   """
 
   @doc """
@@ -13,6 +12,6 @@ defmodule Chess do
 
   """
   def hello do
-    :world
+    :ld
   end
 end
